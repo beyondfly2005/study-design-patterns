@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 @Order(2)
-public class CheckRole4OrganizationDelete implements OrganizationDeleteCheck {
+public class RoleCheck4OrganizationDelete implements OrganizationDeleteCheck {
 
     @Override
     public ResultVO handle(Long organizationId) {
