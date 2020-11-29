@@ -13,5 +13,7 @@
         <module>ChainOfResponsibility</module>
         <module>Singleton</module>
         <module>Strategy</module>
+        <module>FactoryMethod</module>
+        <module>AbstractFactory</module>
     </modules>
 </project>
